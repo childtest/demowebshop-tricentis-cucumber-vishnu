@@ -1,0 +1,67 @@
+2024-12-17 23:12:714 INFO  HomePage :60 - Click on computer tab[[ChromeDriver: chrome on windows (731e433c5a72dc12c1ed12e4cdb1bc76)] -> link text: Computers]
+2024-12-17 23:12:724 INFO  ComputerPage :22 - get computer page title
+2024-12-17 23:12:378 INFO  HomePage :60 - Click on computer tab[[ChromeDriver: chrome on windows (50aebae0abb1438c8f7857b02755d70b)] -> link text: Computers]
+2024-12-17 23:12:749 INFO  ComputerPage :28 - click on desktops : [[ChromeDriver: chrome on windows (50aebae0abb1438c8f7857b02755d70b)] -> link text: Desktops]
+2024-12-17 23:12:755 INFO  DesktopsPage :22 - get desktops page title
+2024-12-17 23:12:323 INFO  HomePage :60 - Click on computer tab[[ChromeDriver: chrome on windows (6108f4b283b047db7519b9aed5d3c218)] -> link text: Computers]
+2024-12-17 23:12:792 INFO  ComputerPage :28 - click on desktops : [[ChromeDriver: chrome on windows (6108f4b283b047db7519b9aed5d3c218)] -> link text: Desktops]
+2024-12-17 23:12:352 INFO  DesktopsPage :28 - click on : [[ChromeDriver: chrome on windows (6108f4b283b047db7519b9aed5d3c218)] -> link text: Build your own computer]
+2024-12-17 23:12:554 INFO  ProductDetailsPage :47 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 23:12:604 INFO  ProductDetailsPage :51 - Select ram '[[ChromeDriver: chrome on windows (6108f4b283b047db7519b9aed5d3c218)] -> id: product_attribute_16_6_5]'
+2024-12-17 23:12:730 INFO  ProductDetailsPage :59 - Select HDD '320 GB'
+2024-12-17 23:12:803 INFO  ProductDetailsPage :69 - Select HDD 'Windows 7 [+50.00]'
+2024-12-17 23:12:877 INFO  ProductDetailsPage :79 - Select Software 'Microsoft Office [+50.00]'
+2024-12-17 23:12:882 INFO  ProductDetailsPage :86 - Click on add to cart
+2024-12-17 23:12:949 INFO  HomePage :60 - Click on computer tab[[ChromeDriver: chrome on windows (2fcfb20558fd4b1f30eebc2318f1d263)] -> link text: Computers]
+2024-12-17 23:12:322 INFO  ComputerPage :28 - click on desktops : [[ChromeDriver: chrome on windows (2fcfb20558fd4b1f30eebc2318f1d263)] -> link text: Desktops]
+2024-12-17 23:12:787 INFO  DesktopsPage :28 - click on : [[ChromeDriver: chrome on windows (2fcfb20558fd4b1f30eebc2318f1d263)] -> link text: Build your own computer]
+2024-12-17 23:12:851 INFO  ProductDetailsPage :47 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 23:12:866 INFO  ProductDetailsPage :51 - Select ram '[[ChromeDriver: chrome on windows (2fcfb20558fd4b1f30eebc2318f1d263)] -> id: product_attribute_16_6_5]'
+2024-12-17 23:12:02 INFO  ProductDetailsPage :59 - Select HDD '400 GB [+100.00]'
+2024-12-17 23:12:77 INFO  ProductDetailsPage :69 - Select HDD 'Windows 10 [+60.00]'
+2024-12-17 23:12:149 INFO  ProductDetailsPage :79 - Select Software 'Acrobat Reader [+10.00]'
+2024-12-17 23:12:152 INFO  ProductDetailsPage :86 - Click on add to cart
+2024-12-17 23:12:666 INFO  HomePage :60 - Click on computer tab[[ChromeDriver: chrome on windows (e83159c4dd81d93acc71517cc69b1ed7)] -> link text: Computers]
+2024-12-17 23:12:40 INFO  ComputerPage :28 - click on desktops : [[ChromeDriver: chrome on windows (e83159c4dd81d93acc71517cc69b1ed7)] -> link text: Desktops]
+2024-12-17 23:12:528 INFO  DesktopsPage :28 - click on : [[ChromeDriver: chrome on windows (e83159c4dd81d93acc71517cc69b1ed7)] -> link text: Build your own computer]
+2024-12-17 23:12:583 INFO  ProductDetailsPage :47 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 23:12:595 INFO  ProductDetailsPage :51 - Select ram '[[ChromeDriver: chrome on windows (e83159c4dd81d93acc71517cc69b1ed7)] -> id: product_attribute_16_6_5]'
+2024-12-17 23:12:711 INFO  ProductDetailsPage :59 - Select HDD '320 GB'
+2024-12-17 23:12:778 INFO  ProductDetailsPage :69 - Select HDD 'Ubuntu'
+2024-12-17 23:12:846 INFO  ProductDetailsPage :79 - Select Software 'Total Commander [+5.00]'
+2024-12-17 23:12:849 INFO  ProductDetailsPage :86 - Click on add to cart
+2024-12-17 23:12:461 INFO  HomePage :35 - Click on Login Link : [[ChromeDriver: chrome on windows (842cf72060fa2be097bedcdc04b133d5)] -> link text: Log in]
+2024-12-17 23:12:484 INFO  LoginPage :34 - get login page title : [[ChromeDriver: chrome on windows (842cf72060fa2be097bedcdc04b133d5)] -> xpath: //h1]
+2024-12-17 23:12:916 INFO  HomePage :35 - Click on Login Link : [[ChromeDriver: chrome on windows (73eed57d60c17fc7a1ea4a9fcd09d197)] -> link text: Log in]
+2024-12-17 23:12:974 INFO  LoginPage :40 - Enter EmailId[[ChromeDriver: chrome on windows (73eed57d60c17fc7a1ea4a9fcd09d197)] -> id: Email]
+2024-12-17 23:12:17 INFO  LoginPage :45 - Enter Password [[ChromeDriver: chrome on windows (73eed57d60c17fc7a1ea4a9fcd09d197)] -> name: Password]
+2024-12-17 23:12:259 INFO  LoginPage :50 - Click on loginButton :[[ChromeDriver: chrome on windows (73eed57d60c17fc7a1ea4a9fcd09d197)] -> xpath: //input[@value = 'Log in']]
+2024-12-17 23:12:491 INFO  HomePage :35 - Click on Login Link : [[ChromeDriver: chrome on windows (a281cc5f7f655065d0a8806a35f51e2a)] -> link text: Log in]
+2024-12-17 23:12:539 INFO  LoginPage :40 - Enter EmailId[[ChromeDriver: chrome on windows (a281cc5f7f655065d0a8806a35f51e2a)] -> id: Email]
+2024-12-17 23:12:584 INFO  LoginPage :45 - Enter Password [[ChromeDriver: chrome on windows (a281cc5f7f655065d0a8806a35f51e2a)] -> name: Password]
+2024-12-17 23:12:937 INFO  LoginPage :50 - Click on loginButton :[[ChromeDriver: chrome on windows (a281cc5f7f655065d0a8806a35f51e2a)] -> xpath: //input[@value = 'Log in']]
+2024-12-17 23:12:993 INFO  HomePage :54 - get log out link text : [[ChromeDriver: chrome on windows (a281cc5f7f655065d0a8806a35f51e2a)] -> link text: Log out]
+2024-12-17 23:12:189 INFO  HomePage :35 - Click on Login Link : [[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> link text: Log in]
+2024-12-17 23:12:239 INFO  LoginPage :40 - Enter EmailId[[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> id: Email]
+2024-12-17 23:12:287 INFO  LoginPage :45 - Enter Password [[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> name: Password]
+2024-12-17 23:12:658 INFO  LoginPage :50 - Click on loginButton :[[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> xpath: //input[@value = 'Log in']]
+2024-12-17 23:12:126 INFO  HomePage :45 - Click on logoutLink : [[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> link text: Log out]
+2024-12-17 23:12:154 INFO  HomePage :49 - get log in link text : [[ChromeDriver: chrome on windows (d7201a0edd434903584c650222a32be4)] -> xpath: //a[normalize-space()='Log in']]
+2024-12-17 23:12:635 INFO  HomePage :40 - Click On RegisterLink : [[ChromeDriver: chrome on windows (763b80949014d773b2bc1878e2874fb2)] -> link text: Register]
+2024-12-17 23:12:652 INFO  RegisterPage :74 - get register page title : [[ChromeDriver: chrome on windows (763b80949014d773b2bc1878e2874fb2)] -> xpath: //h1]
+2024-12-17 23:12:871 INFO  HomePage :40 - Click On RegisterLink : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> link text: Register]
+2024-12-17 23:12:941 INFO  RegisterPage :135 - Click on register button : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //input[@id='register-button']]
+2024-12-17 23:12:955 INFO  RegisterPage :79 - Firstname is required : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //span[@for='FirstName']]
+2024-12-17 23:12:980 INFO  RegisterPage :84 - Last name is required : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //span[@for='LastName']]
+2024-12-17 23:12:00 INFO  RegisterPage :89 - Email is required : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //span[@for='Email']]
+2024-12-17 23:12:18 INFO  RegisterPage :94 - Password is required : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //span[@for='Password']]
+2024-12-17 23:12:35 INFO  RegisterPage :99 - Confirm Password is required : [[ChromeDriver: chrome on windows (cb1819bdf7f49ed57f10632ab7d84bc2)] -> xpath: //span[@for='ConfirmPassword']]
+2024-12-17 23:12:323 INFO  HomePage :40 - Click On RegisterLink : [[ChromeDriver: chrome on windows (1e0a4dbaa6bb102b0e27f21707073e45)] -> link text: Register]
+2024-12-17 23:12:327 INFO  RegisterPage :104 - Click on gender of Female
+2024-12-17 23:12:387 INFO  RegisterPage :109 - Enter first name : prime
+2024-12-17 23:12:436 INFO  RegisterPage :114 - Enter last name : test
+2024-12-17 23:12:481 INFO  RegisterPage :119 - Enter email : primetest6@gmail.com
+2024-12-17 23:12:527 INFO  RegisterPage :124 - Enter password : test123
+2024-12-17 23:12:567 INFO  RegisterPage :129 - Enter confirm password : test123
+2024-12-17 23:12:106 INFO  RegisterPage :135 - Click on register button : [[ChromeDriver: chrome on windows (1e0a4dbaa6bb102b0e27f21707073e45)] -> xpath: //input[@id='register-button']]
+2024-12-17 23:12:110 INFO  RegisterPage :139 - get register Success message : 
